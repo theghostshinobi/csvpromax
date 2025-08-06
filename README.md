@@ -131,9 +131,16 @@ Choose (1-5): 3
 5. Exit without saving
 Choose (1-5): 4
 
+
 💾 In what format would you like to save the file?
 1. CSV
 2. TXT (formatted table)
 Choose (1/2/3): 2
 
 ✅ File saved as: /Users/ghostshinobi/Desktop/test_formatted.txt
+
+
+<img width="1440" height="900" alt="Schermata 2025-08-06 alle 09 58 26" src="https://github.com/user-attachments/assets/debb1a9d-51b4-4ed4-8993-805fefee270e" />
+
+<img width="1440" height="900" alt="Schermata 2025-08-06 alle 09 58 21" src="https://github.com/user-attachments/assets/e75612c1-cf4a-4cc0-9d47-cb70eb4696f3" />
+
